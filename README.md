@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruoqihuang
-- 👀 I’m interested in memory research, ageing, and neural oscillation.
+- 👀 I’m interested in memory, ageing, and perception.
 - 🌱 I’m a python/R/Unity(C#,Silicolab) user, and currently learning html, MATLAB, and machine learning.
 - 💞️ I’m looking to collaborate on programming behavioural experiments online.
 - 📫 How to reach me: twitter @RuoqiHuang
